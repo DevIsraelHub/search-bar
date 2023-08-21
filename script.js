@@ -4,6 +4,7 @@ const input = document.querySelector('input');
 
 input.onkeyup = (e) => {
     let key = e.target.value;
+    
     let noArray = [];
     if(key){
         noArray = suggestions.filter(data => {
