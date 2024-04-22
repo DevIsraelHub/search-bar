@@ -5,7 +5,7 @@ let suggestions = [
     'Avengers',
     'Bad',
     'Banner',
-    'Channel',y
+    'Channel',
     'Coding',
     'Coder',
     'Hacker',h
