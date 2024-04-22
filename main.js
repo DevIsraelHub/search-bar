@@ -1,5 +1,5 @@
 
-let suggestions = [
+let suggestions = [h
     'Alibaba',
     'Alvin and the chipmunks',
     'Avengers',
