@@ -1,7 +1,7 @@
 
 let suggestions = [
     'Alibaba',
-    'Alvin and the chipmunks',
+    'Alvin and the chipmunks',h
     'Avengers',
     'Bad',
     'Banner',
