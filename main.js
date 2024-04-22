@@ -8,7 +8,7 @@ let suggestions = [
     'Channel',
     'Coding',
     'Coder',
-    'Hacker',h
+    'Hacker',
     'Programmer',
     'YouTube',
     'YouTube Channel',
